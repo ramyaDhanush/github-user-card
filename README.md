@@ -1,6 +1,19 @@
 # github-user-card
 A react based application to create user card for existing gihub users
 
+## Installation
+1. Install node and verify installation using command ```npm -v```
+2. Clone the repo
+3. Navigate to project repository 
+4. Install dependencies ```npm install``` or ```npm i```
+5. Run the application ```npm start```
+
+Application will be running in localhost, port 3000.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+# react-documentation for reference
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
