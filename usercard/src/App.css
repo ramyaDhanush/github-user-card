@@ -22,11 +22,14 @@ img {
 }
 form {
   border: thin solid #ddd;
-  background-color: #fbfbfb;
+  background-color: inherit;
   padding: 2rem;
-  margin-bottom: 2rem;
+  margin: auto;
+  margin-top:2rem;
   display: flex;
+  width: 30%;
   justify-content: center;
+  align-items: center;
 }
 
 .header {
@@ -36,4 +39,13 @@ form {
   padding: 1rem;
   width: max-content;
   border: 1px solid #ffeeee;
+}
+
+.body{
+  margin: auto;
+  width: 60%;
+}
+
+.input,.button{
+  padding: 10px;
 }
